@@ -16,7 +16,7 @@ In the same way, reader is able to run metrics on older products versions by dow
 ## Executing program
 Click below to run Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidlagorce/orphanet_nomenclature_binder_test/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Orphanet/orphanet_nomenclature_binder/HEAD)
 
 ## Running Scripts
 

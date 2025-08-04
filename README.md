@@ -1,8 +1,8 @@
 # Binder/Docker for Jupyter Notebook Orphanet Nomenclature
 
-Data metrics from the Orphanet nomenclature of rare diseases are computed by using the Orphanet Scientific Knowledge Base products (https://www.orphadata.com/orphanet-scientific-knowledge-files) delivered on the Orphadata.com website (https://www.orphadata.com).  
+Data metrics from the Orphanet nomenclature of rare diseases are computed by using the Orphanet Scientific Knowledge Base products (https://sciences.orphadata.com/orphanet-scientific-knowledge-files/) delivered on the Orphadata.com website (https://www.orphadata.com).  
 These products, structured in an Extensible Markup Language (XML) file format, are produced twice a year (in July and December) by employing in-house backoffice tools as an ETL (Extract Transform Load).  
-For this study we selected 4 different products of the July 2022 version of Orphadata: 
+For this study we selected 4 different products of the July 2025 version of Orphadata: 
 - the “rare diseases and alignments with terminologies and databases” product (<iso>_product1.xml) in english, czech dutch, french, german, italian, polish, portuguese and spanish languages, the “linearization of rare diseases” english product (en_product7.xml)
 - the “genes associated with rare diseases” english product product (en_product6.xml).
 - all the “classifications of rare diseases” english products (en_product3_<x>.xml)  
